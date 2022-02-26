@@ -1,0 +1,26 @@
+{
+    "result" : {
+        "rootVegetables" : [
+            "turnips", 
+            "ginger", 
+            "beets"
+        ],
+        "leafyVegetables" : [
+            "broccoli",
+            "spinach",
+            "cabbage"
+        ],
+        "marrow" : [
+            "pumpkin",
+            "cucumber"
+        ],
+        "root" : [
+            "potato",
+            "sweet potato"
+        ],
+        "allium" : [
+            "onion",
+            "garlic"
+        ]
+    }
+}
