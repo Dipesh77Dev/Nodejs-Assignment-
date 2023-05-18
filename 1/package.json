@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Creating an API for years with nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^17.4.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Create",
+    "API"
+  ],
+  "author": "Raj",
+  "license": "ISC"
+}
